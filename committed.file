@@ -1,1 +1,4 @@
-aaa
+git add file
+git commit
+
+git push https://github.com/zhengyabiao/test
